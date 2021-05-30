@@ -72,6 +72,12 @@
 **_(NAACL 2021)_**<br>
 [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.410.pdf)
 
+**How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering.**<br>
+*Zhengbao Jiang, Jun Araki, Haibo Ding, Graham Neubig.*<br>
+**_(TACL 2021)_**<br>
+[[paper]](https://arxiv.org/pdf/2012.00955.pdf)
+[[code]](https://github.com/jzbjyb/lm-calibration)
+
 
 ## Syntactic Knowledge Probes
 
