@@ -56,7 +56,7 @@
 [[code]](https://github.com/npoe/ebert)
 
 **Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language Models.**<br>
-*Nora Kassner, Philipp Dufter, Hinrich Schütze.*
+*Nora Kassner, Philipp Dufter, Hinrich Schütze.*<br>
 **_(EACL 2021)_**<br>
 [[paper]](https://arxiv.org/pdf/2102.00894.pdf)
 [[code]](https://github.com/norakassner/mlama)
