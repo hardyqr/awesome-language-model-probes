@@ -1,7 +1,5 @@
 # awesome-language-model-probes
 
-
-
 ## Factual Knowledge Probes
 
 **Language Model as Knowledge Bases?**<br>
@@ -32,6 +30,14 @@
 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf)
 [[website]](https://ucinlp.github.io/autoprompt/)
 [[code]](https://github.com/ucinlp/autoprompt)
+
+**X-FACTR: Multilingual Factual Knowledge Retrieval from Pretrained Language Models.**<br>
+*Zhengbao Jiang, Antonios Anastasopoulos, Jun Araki, Haibo Ding, Graham Neubig.*<br>
+**_(EMNLP 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.479.pdf)
+[[website]](https://x-factr.github.io)
+[[code]](https://github.com/jzbjyb/X-FACTR)
+
 
 **E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT.**<br>
 *Nina Poerner, Ulli Waltinger, Hinrich Schuütze∗.*<br>
