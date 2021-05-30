@@ -8,6 +8,11 @@
 [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
 [[code]](https://github.com/facebookresearch/LAMA)
 
+**Inducing relational knowledge from BERT.**<br>
+*Zied Bouraoui, Jose Camacho-Collados, Steven Schockaert.*<br>
+**_(AAAI 2020)_**<br>
+[[paper]](https://arxiv.org/pdf/1911.12753.pdf)
+
 **Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly.**<br>
 *Nora Kassner, Hinrich Schütze.*<br>
 **_(ACL 2020)_**<br>
