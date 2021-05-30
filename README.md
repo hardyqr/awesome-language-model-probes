@@ -30,7 +30,7 @@
 [[paper]](https://openreview.net/forum?id=025X0zPfn)
 
 **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts.**<br>
-*Taylor Shin, Yasaman Razeghi, Robert L. Logan IV, Eric Wallace, Sameer Singh*<br>
+*Taylor Shin, Yasaman Razeghi, Robert L. Logan IV, Eric Wallace, Sameer Singh.*<br>
 **_(EMNLP 2020)_**<br>
 [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf)
 [[website]](https://ucinlp.github.io/autoprompt/)
@@ -50,7 +50,7 @@
 [[code]](https://goo.gle/t5-cbqa)
 
 **E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT.**<br>
-*Nina Poerner, Ulli Waltinger, Hinrich Schuütze∗.*<br>
+*Nina Poerner, Ulli Waltinger, Hinrich Schuütze.*<br>
 **_(EMNLP-findings 2020)_**<br>
 [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.71.pdf)
 [[code]](https://github.com/npoe/ebert)
