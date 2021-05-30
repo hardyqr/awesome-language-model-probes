@@ -22,7 +22,7 @@
 [[code]](https://github.com/jzbjyb/LPAQA)
 
 **How Context Affects Language Models’ Factual Predictions.**<br>
-*Fabio Petroni, Patrick Lewis, Aleksandra Piktus, Tim Rocktäschel, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel.*
+*Fabio Petroni, Patrick Lewis, Aleksandra Piktus, Tim Rocktäschel, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel.*<br>
 **__(AKBC 2020)__**<br>
 [[paper]](https://openreview.net/forum?id=025X0zPfn)
 
