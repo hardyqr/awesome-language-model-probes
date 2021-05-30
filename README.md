@@ -1,16 +1,6 @@
 # awesome-language-model-probes
 
-## Syntactic Knowledge Probes
 
-**A Structural Probe for Finding Syntax in Word Representations.**<br>
-*John Hewitt, Christopher D. Manning.*<br>
-**_(NAACL 2019)_**<br>
-[[paper]](https://www.aclweb.org/anthology/N19-1419.pdf)
-
-**A Non-Linear Structural Probe.**<br>
-*Jennifer C. White, Tiago Pimentel, Naomi Saphra, Ryan Cotterell.*<br>
-**_(NAACL 2021)_**<br>
-[[paper]](https://www.aclweb.org/anthology/2021.naacl-main.12.pdf)
 
 ## Factual Knowledge Probes
 
@@ -30,6 +20,11 @@
 **_(TACL 2020)_**<br>
 [[paper]](https://arxiv.org/pdf/1911.12543.pdf)
 [[code]](https://github.com/jzbjyb/LPAQA)
+
+**How Context Affects Language Models’ Factual Predictions.**<br>
+*Fabio Petroni, Patrick Lewis, Aleksandra Piktus, Tim Rocktäschel, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel.*
+**__(AKBC 2020)__**<br>
+[[paper]](https://openreview.net/forum?id=025X0zPfn)
 
 **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts.**<br>
 *Taylor Shin, Yasaman Razeghi, Robert L. Logan IV, Eric Wallace, Sameer Singh*<br>
@@ -60,3 +55,16 @@
 *Guanghui Qin, Jason Eisner.*<br>
 **_(NAACL 2021)_**<br>
 [[paper]](https://www.aclweb.org/anthology/2021.naacl-main.410.pdf)
+
+
+## Syntactic Knowledge Probes
+
+**A Structural Probe for Finding Syntax in Word Representations.**<br>
+*John Hewitt, Christopher D. Manning.*<br>
+**_(NAACL 2019)_**<br>
+[[paper]](https://www.aclweb.org/anthology/N19-1419.pdf)
+
+**A Non-Linear Structural Probe.**<br>
+*Jennifer C. White, Tiago Pimentel, Naomi Saphra, Ryan Cotterell.*<br>
+**_(NAACL 2021)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2021.naacl-main.12.pdf)
