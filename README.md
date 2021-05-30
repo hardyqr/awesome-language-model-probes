@@ -14,7 +14,7 @@
 
 ## Factual Knowledge Probes
 
-**Language Model as Knowledge Bases?**
+**Language Model as Knowledge Bases?**<br>
 *Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel.*<br>
 **_(EMNLP 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
