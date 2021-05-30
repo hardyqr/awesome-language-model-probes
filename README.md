@@ -38,6 +38,11 @@
 [[website]](https://x-factr.github.io)
 [[code]](https://github.com/jzbjyb/X-FACTR)
 
+**How Much Knowledge Can You Pack Into the Parameters of a Language Model?**<br>
+*Adam Roberts, Colin Raffel, Noam Shazeer.*<br>
+**_(EMNLP 2020)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.437.pdf)
+[[code]](https://goo.gle/t5-cbqa)
 
 **E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT.**<br>
 *Nina Poerner, Ulli Waltinger, Hinrich Schuütze∗.*<br>
