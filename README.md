@@ -50,7 +50,7 @@
 [[code]](https://goo.gle/t5-cbqa)
 
 **E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT.**<br>
-*Nina Poerner, Ulli Waltinger, Hinrich Schuütze.*<br>
+*Nina Poerner, Ulli Waltinger, Hinrich Schütze.*<br>
 **_(EMNLP-findings 2020)_**<br>
 [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.71.pdf)
 [[code]](https://github.com/npoe/ebert)
