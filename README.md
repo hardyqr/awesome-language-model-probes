@@ -78,6 +78,10 @@
 [[paper]](https://arxiv.org/pdf/2012.00955.pdf)
 [[code]](https://github.com/jzbjyb/lm-calibration)
 
+**Knowledge Neurons in Pretrained Transformers.**<br>
+*Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei.*<br>
+**_(arxiv)_**<br>
+[[paper]](https://arxiv.org/pdf/2104.08696.pdf)
 
 ## Syntactic Knowledge Probes
 
