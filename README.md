@@ -78,6 +78,11 @@
 [[paper]](https://arxiv.org/pdf/2012.00955.pdf)
 [[code]](https://github.com/jzbjyb/lm-calibration)
 
+**Measuring and Improving Consistency in Pretrained Language Models.**<br>
+*Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg.*<br>
+**_(TACL 2021)_**<br>
+[[paper]](https://arxiv.org/pdf/2102.01017.pdf)
+
 **Knowledge Neurons in Pretrained Transformers.**<br>
 *Damai Dai, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei.*<br>
 **_(arxiv)_**<br>
