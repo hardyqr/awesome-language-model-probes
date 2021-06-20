@@ -92,7 +92,7 @@
 *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue, Jin Xu.*<br>
 **_(ACL-IJCNLP 2021)_**<br>
 [[paper]](https://arxiv.org/pdf/2106.09231.pdf)
-[[code]](https://github.com/c- box/LANKA)
+[[code]](https://github.com/c-box/LANKA)
 
 
 ## Syntactic Knowledge Probes
