@@ -88,6 +88,13 @@
 **_(arxiv)_**<br>
 [[paper]](https://arxiv.org/pdf/2104.08696.pdf)
 
+**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge Bases.**<br>
+*Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue, Jin Xu.*<br>
+**_(ACL-IJCNLP 2021)_**<br>
+[[paper]](https://arxiv.org/pdf/2106.09231.pdf)
+[[code]](https://github.com/c- box/LANKA)
+
+
 ## Syntactic Knowledge Probes
 
 **A Structural Probe for Finding Syntax in Word Representations.**<br>
